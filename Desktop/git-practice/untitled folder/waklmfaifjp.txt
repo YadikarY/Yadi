@@ -10,6 +10,42 @@ Library			batch12.txt
 Gitano:~ yadikaryiliya$ clear
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Gitano:~ yadikaryiliya$ pwd
 /Users/yadikaryiliya
 Gitano:~ yadikaryiliya$ ls
